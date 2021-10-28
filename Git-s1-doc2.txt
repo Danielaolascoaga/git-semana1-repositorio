@@ -1,0 +1,2 @@
+cat> Git-s1-doc1.txt
+este documento ha sido creado

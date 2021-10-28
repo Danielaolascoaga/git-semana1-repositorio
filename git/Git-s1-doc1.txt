@@ -1,0 +1,7 @@
+
+mkdir Git-s1-doc.text[D[D[D[D[D[D[C1[C[C[[D[D.t[Cxt
+
+cd
+ls
+
+cls
